@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85d89aa2-7978-4dba-8914-b79866e829ff" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/widzz-angular-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/ngsw.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +36,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\widzz\documents\GitHub\widzz-angular-demo" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -49,14 +51,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608111767633</updated>
-      <workItem from="1608111768922" duration="381000" />
+      <workItem from="1608111768922" duration="1241000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1608112162199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608112162199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="164" y="0" key="CommitChangelistDialog2" timestamp="1608112161264">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="164" y="0" key="CommitChangelistDialog2/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608112161264" />
+    <state x="133" y="48" key="Vcs.Push.Dialog.v2" timestamp="1608112166462">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="133" y="48" key="Vcs.Push.Dialog.v2/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608112166462" />
+    <state x="93" y="93" width="1093" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608113010598">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="93" y="93" width="1093" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608113010598" />
   </component>
 </project>
