@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{AGzw:function(n,t,o){"use strict";o.r(t),o.d(t,"ActivityModule",(function(){return p}));var r=o("GpJN"),e=o("tyNb"),i=o("CSEJ"),c=o("fXoL");let p=(()=>{class n{}return n.\u0275mod=c.Qb({type:n}),n.\u0275inj=c.Pb({factory:function(t){return new(t||n)},imports:[[r.a,e.l.forChild([{path:"",component:i.a}])]]}),n})()}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{K4pk:function(n,o,t){"use strict";t.r(o),t.d(o,"CouponModule",(function(){return c}));var e=t("o+yB"),r=t("tyNb"),p=t("Bone"),u=t("fXoL");let c=(()=>{class n{}return n.\u0275mod=u.Qb({type:n}),n.\u0275inj=u.Pb({factory:function(o){return new(o||n)},imports:[[e.a,r.l.forChild([{path:"",component:p.a}])]]}),n})()}}]);
