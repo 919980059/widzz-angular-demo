@@ -3,9 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="85d89aa2-7978-4dba-8914-b79866e829ff" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/ngsw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k1-f1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k1-f1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k1-f2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k1-f2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k1-f3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k1-f3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k2-b1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k2-b1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k2-f1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k2-f1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k2-f2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k2-f2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k2-f3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k2-f3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k3-b1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k3-b1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k3-f1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k3-f1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k3-f2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k3-f2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k3-f3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k3-f3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k3-f4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k3-f4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/maps/k3-f5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/maps/k3-f5.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608111767633</updated>
-      <workItem from="1608111768922" duration="1241000" />
+      <workItem from="1608111768922" duration="1472000" />
+      <workItem from="1608283874336" duration="263000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1608112162199</created>
@@ -60,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608112162199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1608113028838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608113028838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,17 +89,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="164" y="0" key="CommitChangelistDialog2" timestamp="1608112161264">
+    <state x="164" y="0" key="CommitChangelistDialog2" timestamp="1608113027775">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="164" y="0" key="CommitChangelistDialog2/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608112161264" />
-    <state x="133" y="48" key="Vcs.Push.Dialog.v2" timestamp="1608112166462">
+    <state x="164" y="0" key="CommitChangelistDialog2/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608113027775" />
+    <state x="133" y="48" key="Vcs.Push.Dialog.v2" timestamp="1608113032262">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="133" y="48" key="Vcs.Push.Dialog.v2/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608112166462" />
+    <state x="133" y="48" key="Vcs.Push.Dialog.v2/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608113032262" />
     <state x="93" y="93" width="1093" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608113010598">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="93" y="93" width="1093" height="573" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608113010598" />
+    <state x="270" y="18" width="739" height="722" key="find.popup" timestamp="1608284052518">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="270" y="18" width="739" height="722" key="find.popup/0.0.1280.760/-1920.0.1536.824@0.0.1280.760" timestamp="1608284052518" />
   </component>
 </project>
